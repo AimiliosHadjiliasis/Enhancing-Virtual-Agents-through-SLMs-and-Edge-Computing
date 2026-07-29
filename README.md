@@ -5,9 +5,9 @@
 </h1>
 
 <p align="center">
-  <strong><a href="YOUR_PROFILE_LINK">Aimilios Hadjiliasi</a></strong><sup>*</sup>
+  <strong><a href="https://www.uclancyprus.ac.cy/academic/dr-aimilios-hadjiliasi/">Aimilios Hadjiliasi</a></strong><sup>*</sup>
   &emsp;&emsp;&emsp;&emsp;&emsp;
-  <strong><a href="LOUIS_PROFILE_LINK">Louis Nisiotis</a></strong><sup>*</sup>
+  <strong><a href="https://www.uclancyprus.ac.cy/academic/dr-louis-nisiotis/K">Louis Nisiotis</a></strong><sup>*</sup>
   <br>
   <a href="mailto:ahadjiliasi@uclan.ac.uk">ahadjiliasi@uclan.ac.uk</a>
   &emsp;&emsp;&emsp;&emsp;
