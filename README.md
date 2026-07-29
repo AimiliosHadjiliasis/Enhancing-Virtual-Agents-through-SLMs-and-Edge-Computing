@@ -1,3 +1,4 @@
+<hr>
 
 <h1 align="center">
   Enhancing Virtual Agents through SLMs and Edge Computing:<br>
@@ -24,6 +25,14 @@
   XRAG'26 - Agentic AI for Extented Reality
   (<a href="">XRAG'26</a>),
   <br>
+</p>
+
+<p align="center">
+  <img
+    src="./ceaaAndPipeline.png"
+    alt="System architecture"
+    width="850"
+  >
 </p>
 
 <h2 align="center"> Abstract </h2>
